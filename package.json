@@ -1,0 +1,18 @@
+{
+  "name": "dashboardbink",
+  "version": "1.0.2",
+  "description": "Dashboard de Binkbe",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "dashboard",
+    "binkbe"
+  ],
+  "author": "DiegoSh26",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "serve": "^14.2.5"
+  }
+}
